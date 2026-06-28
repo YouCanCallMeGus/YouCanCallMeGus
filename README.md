@@ -106,41 +106,12 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouCanCallMeGus/YouCanCallMeGus/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouCanCallMeGus/YouCanCallMeGus/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YouCanCallMeGus/YouCanCallMeGus/output/github-snake.svg" />
-</picture>
-
-> ⚠️ Para ativar a snake animation, configure a [GitHub Action](https://github.com/Platane/snk) no seu repositório.
-
-</div>
-
----
-
-## 📦 Featured Projects
-
-<!-- Substitua os repos pelos seus projetos reais -->
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YouCanCallMeGus&repo=SEU_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&icon_color=6366f1)](https://github.com/YouCanCallMeGus/SEU_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YouCanCallMeGus&repo=SEU_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&icon_color=6366f1)](https://github.com/YouCanCallMeGus/SEU_REPO_2)
-
-</div>
-
----
-
 ## 📬 Let's connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-gustavoss/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavosantanas.2019@gmail.com)
 
 </div>
 
