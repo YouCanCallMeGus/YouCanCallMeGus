@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=YouCanCallMeGus&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Data%20Science%20%7C%20AI&descAlignY=58&descColor=c4b5fd" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+%F0%9F%A4%96;Python+is+my+native+language+%F0%9F%90%8D;Turning+data+into+decisions+%F0%9F%93%8A;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Python+is+my+native+language;Turning+data+into+decisions;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🧠 About me
+## About me
 
 ```python
 class YouCanCallMeGus:
@@ -30,7 +30,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <div align="center">
@@ -67,7 +67,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -86,7 +86,7 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -96,7 +96,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -106,7 +106,7 @@ me.say_hi()
 
 ---
 
-## 📬 Let's connect
+## Let's connect
 
 <div align="center">
 
